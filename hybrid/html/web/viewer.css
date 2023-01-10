@@ -819,7 +819,7 @@ html[dir='rtl'] #toolbarContainer, .findbar, .secondaryToolbar {
 }
 
 .findbar {
-  min-width: 300px;
+  min-width: 200px;
 }
 .findbar > div {
   height: 32px;
@@ -845,7 +845,7 @@ html[dir='rtl'] .findbar {
 }
 
 #findInput {
-  width: 200px;
+  width: 180px;
 }
 #findInput::-webkit-input-placeholder {
   color: rgba(191, 191, 191, 1);
